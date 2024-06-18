@@ -1,0 +1,11 @@
+{
+    "@@locale": "es",
+    "appName" : "Auto Sat Bot",
+    "dashboard": "Panel de control",
+    "customer": "Cliente",
+    "customers": "Clientes",
+    "invoice": "Factura",
+    "invoices": "Facturas",
+    "settings": "Ajustes",
+    "logout": "Cerrar sesión"
+}
